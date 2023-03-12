@@ -1,0 +1,105 @@
+
+* {
+    background-color: #171c28;
+    color: aliceblue;
+    font-family: "Haas Grot Text R Web", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+.button-center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+
+}
+button {
+  background-color: blueviolet;
+  border-radius: 8px;
+  border-style: none;
+  box-sizing: border-box;
+  color: #FFFFFF;
+  cursor: pointer;
+  font-size: 14px;
+  font-weight: 500;
+  height: 40px;
+  line-height: 20px;
+  list-style: none;
+  margin: 0;
+  outline: none;
+  padding: 10px 16px;
+  text-align: center;
+  text-decoration: none;
+  transition: color 100ms;
+  vertical-align: baseline;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+}
+
+button:hover,
+button:focus {
+  background-color: #F082AC;
+}
+
+h1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    color: whitesmoke;
+    font-size: 100px;
+    margin-bottom: 15px;
+    text-decoration: underline blueviolet;
+}
+
+h2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    color: whitesmoke;
+    font-size: 50px;
+    text-decoration: underline blueviolet;
+}
+
+h3 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    color: whitesmoke;
+    font-size: 39px;
+    text-decoration: underline blueviolet;
+}
+
+
+
+.biog {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    color: whitesmoke;
+}
+
+.biog h4 {
+    margin: 10px;
+    text-decoration: underline blueviolet;
+    font-size: 30px;
+}
+
+.biog p {
+    font-size: 20px
+}
+
+h5 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    color: whitesmoke;
+    font-size: 39px;
+    margin-top: 10px;
+    margin-bottom: 15px;
+    text-decoration: underline blueviolet;
+}
