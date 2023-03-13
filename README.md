@@ -14,8 +14,10 @@ Furture devlopment plans include better styling and layout, as well as more prom
 
 3. Make sure you have nodejs (https://nodejs.org/en/) isntalled
 
-4. Run the command 'node index.js'
-
+4. Run the command 
+   '''md
+   node index.js
+   '''
 ## Usage
 
 1. Questions will appear, type your answers directly into the console 
