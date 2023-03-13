@@ -1,4 +1,4 @@
-console.log('hi');
+
 
 const fs = require('fs');
 const inquirer = require('inquirer');
@@ -45,9 +45,16 @@ inquirer.prompt(
     <h1>My Profile</h1>
     <h2>My name is ${answers.Name}</h2>
     <h3>I am located in ${answers.Location}</h3>
+    <div class="biog">
+    <h4>My Bio:</h4>
     <p>${answers.Biography}</p>
+    </div>
     <h5>Visit my GitHub!</h5>
-    <button><a${answers.GitHubURL}></a></button>
+    <div class="button-center">
+        <form>
+    <button formaction="${answers.GitHubURL}">Github</button>
+        </form>
+    </div>
 </body>
 </html>`
 
