@@ -12,12 +12,10 @@ Furture devlopment plans include better styling and layout, as well as more prom
 
 2. CD into the repository on your local machine
 
-3. Make sure you have nodejs (https://nodejs.org/en/) isntalled
+3. Make sure you have nodejs (https://nodejs.org/en/) installed
 
-4. Run the command 
-   '''md
-   node index.js
-   '''
+4. Run the command 'node index.js' in the CLI
+
 ## Usage
 
 1. Questions will appear, type your answers directly into the console 
