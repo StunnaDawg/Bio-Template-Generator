@@ -19,17 +19,13 @@ Furture devlopment plans include better styling and layout, as well as more prom
 ## Usage
 
 1. Questions will appear, type your answers directly into the console 
-    ```md
-    ![alt text](./assets/images/Screenshot%202023-03-13%20at%204.44.07%20PM.png)
-    ```
+   ![alt text](./assets/images/Screenshot%202023-03-13%20at%204.44.07%20PM.png)
 
 2. When the CLI logs 'User Profile succesfully created', your template is completed and is stored in the main directory
-    ```md
     ![alt text](./assets/images/Screenshot%202023-03-13%20at%204.48.13%20PM.png)
-    ```
-    ```md
+   
     ![alt text](./assets/images/Screenshot%202023-03-13%20at%204.50.47%20PM.png)
-    ```
+    
 
 ## Credits
 
